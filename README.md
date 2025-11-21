@@ -4,5 +4,5 @@
 # Enlace video entrega 2: 
 - https://youtu.be/sQejiIPmYCI
 
-# Enlace video de youtube entrega 3
+# Enlace video entrega 3
 - https://youtu.be/Trhala-img8
